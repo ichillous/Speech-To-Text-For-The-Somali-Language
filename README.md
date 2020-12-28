@@ -1,9 +1,9 @@
 # The Use of Convolutional Neural Networks to Develop an Effective Speech To Text For The Somali Language 
 
 ## Table of Contents
-- [Contributions](##People-Who-Have-Contributed-To-This-Project)
-- [Tasks](##What-Task-Must-Be-Done) 
-- [Time Line](##Project-Time-Line)
+- [Contributions](#People-Who-Have-Contributed-To-This-Project)
+- [Tasks](#What-Task-Must-Be-Done) 
+- [Time Line](#Project-Time-Line)
 
 ## People Who Have Contributed To This Project
 - George Washington
