@@ -6,9 +6,8 @@
 - [Time Line](#Project-Time-Line)
 
 ## People Who Have Contributed To This Project
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Abdulnaser Sheikh 
+- - Computer Science
 
 ## What Task Must Be Done 
 - [ ] Develop Audio For Most Common Somali Words
@@ -18,14 +17,14 @@
 
  
  ## Project Time-Line
- 1. May 2021
-    - [ ] Develop Audio For Most Common Somali Words
-    
- 2. December 2021
+ 1. May 2022
     - [ ] Building a phonetic dictionary
     
- 3. May 2022
-    - [ ] Collect a set of transcribed recordings for your language - interviews, audiobooks
-    
- 4. December 2022
+ 2. December 2022
     - [ ] Building a language model
+    
+ 3. May 2023
+    - [x] Collect a set of transcribed recordings for your language - interviews, audiobooks
+    
+ 4. December 2024
+    - [ ] Acoustic model
