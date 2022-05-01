@@ -1,4 +1,4 @@
-# The Use of Convolutional Neural Networks to Develop an Effective Speech To Text For The Somali Language 
+# Speech To Text For The Somali Language 
 
 ## Table of Contents
 - [Contributions](#People-Who-Have-Contributed-To-This-Project)
